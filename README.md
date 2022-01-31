@@ -14,4 +14,6 @@ Preferred:
 If you cannot or will not comply with either of the above licenses, you are permitted to roll the cosmic dice at your own peril:
 * [fafol v0.1](https://paste.sr.ht/~boringcactus/ed023ccf9d7a5559612d6e60f0474d6c3375349d)
 
+If you resort to the fafol license, it would still be appreciated if you attempt to comply with the spirit of the preferred licenses.
+
 **If you use any part of this project in your own project, you must comply with at least one of the licenses.**
