@@ -1,0 +1,41 @@
+[center][b]This section was last updated during: [color=#0094FF]Patch 9.15 (August 2019)[/color][/b][/center]
+
+
+
+[center]~~~   ~~~[/center]
+
+
+[i]Here's a rundown of some of the changes made in recent patches which may have an impact on you if you're playing top lane Olaf. This includes changes made directly to Olaf, as well as those to his items / runes etc. Most changes to other champions are also summarised if they're one of the meta top laners, since those changes can affect how the matchup plays out. Significant changes to non-laners may also be summarised if I think it meaningfully affects how you have to play against them.[/i]
+
+
+[table]
+
+[tr]
+[td width=120 padding=0][/td]
+[td width=640 padding=0][icon=olaf size=24][b][size=4]Olaf-specific changes:[/size][/b][/td]
+[/tr]
+[tr]
+[td width=120 padding=0 bgcolor=#060912][center]N/A[/center][/td]
+[td width=640 padding=0][list][*] No recent Olaf-specific changes.[/list][/td]
+[/tr]
+[tr]
+[td padding=0 height=40][/td]
+[/tr]
+[tr]
+[td width=120 padding=0][/td]
+[td width=640 padding=0][b][size=4]Other highlights:[/size][/b][/td]
+[/tr]
+[tr]
+[td width=120 padding=0 bgcolor=#190000][center][url=https://oce.leagueoflegends.com/en/news/game-updates/patch/patch-918-notes][size=4]Patch 9.18 notes[/size][/url][/center][/td]
+[td width=640 padding=0][list][*][b][[Aatrox]][/b]'s passive [[Deathbringer stance]] only heals for 25% against minions now, which helps cut down a lot of his free sustain. His Q [[The Darkin Blade]] also does a flat 40% damage to minions at all ranks, down from 50-100% based on champion level - quite a significant hit to his wave clear.
+[*] [b][[Akali]][/b]'s R [[Perfect Execution]] no longer stuns on R1, R2's base damage is down at ranks 1 and 2, and the cooldown has been increased at ranks 1 and 2. This will allow you to always beat her on the timer for a rank 1 ult cooldown trade.
+[*] [b][[Annie]][/b]'s E [[Molten Shield]] has traded half of its damage reduction effect for a movement speed burst on activation. It will almost definitely come into play if you see Annie in your games, so just keep it in mind.[/list][/td]
+[/tr]
+[/table]
+[spoiler=Show Patch 9.17][table]
+[tr]
+[td width=120 padding=0 bgcolor=#190A00][center][url=https://oce.leagueoflegends.com/en/news/game-updates/patch/patch-917-notes]Patch 9.17 notes[/url][/center][/td]
+[td width=640 padding=0][list][*] [b][[Aurelion Sol]][/b] got changed quite significantly considering all of his abilities are still basically the same. The changes are sufficient to warrant spending 2 minutes reading through them if his pick rate increases, as they're going to affect how you need to play against him.
+[*][b][[Kayle]][/b] has a number of changes, and I honestly don't know Kayle well enough to fully decipher them all. One notable thing is that her Q [[Radiant Blast]] now refunds 50% of its mana cost for each champion hit. The rest you'll have to go read yourself to figure out.[/list][/td]
+[/tr]
+[/table][/spoiler]

@@ -1,0 +1,37 @@
+table bgcolor=#061E36 padding=10]
+[tr]
+[td colspan=3][table][tr][td][color=#9797fc][size=5][b]Undertow[/b][/size][/color][/td]
+[td padding=5][color=#061E36]···[/color][b][color=#9797fc]TARGET RANGE:[/color] 400 (MIN) / 1000 (MAX)[/b][color=#061E36]···[/color][b][color=#9797fc]SPEED:[/color] 1550[/b][color=#061E36]···[/color][b][color=#9797fc]COST:[/color] 60 MANA[/b][color=#061E36]···[/color][b][color=#9797fc]COOLDOWN:[/color] 7[/b][/td]
+[/tr][/table][/td][/tr]
+[tr]
+[td colspan=3][rule][/td]
+[/tr]
+[tr]
+[td vertical-align=top width=80][center][img=https://i.imgur.com/y0rj0KE.png][/center][/td]
+[td vertical-align=top padding=5][b]ACTIVE: Olaf[/b] throws an axe to the target location, dealing [color=#FF8C34]physical damage[/color] to all enemies it passes through and slowing them for 1.5 − 2.5 (based on distance traveled) seconds.
+
+The axe remains at the target location for a duration equal to the cooldown. [b]Olaf[/b] reduces the cooldown of [i]Undertow[/i] by 4.5 seconds upon retrieving an axe.[/td]
+[td width=200][table padding=5][tr][td colspan=2 padding=5 bgcolor=#041526][color=#BBBBFF][b]PHYSICAL DAMAGE:[/b][/color][/td][/tr]
+[tr][td width=5][/td][td width=200 padding=5]80 / 125 / 170 / 215 / 260 [color=#FFA500](+ 100% [b]bonus[/b] AD)[/color][/td][/tr]
+
+[tr][td colspan=2 padding=5 bgcolor=#041526][color=#BBBBFF][b]SLOW:[/b][/color][/td][/tr]
+[tr][td width=5][/td][td padding=5]29 / 33 / 37 / 41 / 45%[/td][/tr][/table][/td]
+[/tr]
+[tr]
+[td][/td][td colspan=2][spoiler=Technical details][list][*][i]Undertow[/i] briefly grants vision in the area of impact upon landing.
+[*] If [i]Undertow[/i] is unable to [b]completely[/b] pass through the terrain it's being cast through or into, it will simply land where that section of terrain starts instead - it does not get stuck inside the terrain.
+[*] The timer for how long an axe stays on the ground starts upon landing (not when it's actually cast), so it's possible to throw a second axe before picking up the one on the ground.
+[*] Olaf cannot pick up an enemy Olaf's axe from the ground.
+[/list]
+[webm url=https://giant.gfycat.com/MerryFarawayGrison.webm width=625][/spoiler][spoiler=Usage notes]usage1111!11![/spoiler][/td]
+[td][/td]
+[/tr]
+[tr]
+[td colspan=3 vertical-align=bottom][right][size=2][b]View on [url=https://leagueoflegends.fandom.com/wiki/Olaf#Undertow]LoL Wiki[/url][/b][/size][/right][/td]
+[/tr]
+[/table]
+[table]
+[tr]
+[td width=600 height=15 padding=0 bgcolor=#091120][/td]
+[/tr]
+[/table]
